@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 저 앱 내가 만든건데... 가 목표
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+평범한 22살 안드로이드 개발자 입니다.<br>
+남들 다 하길래 멋있어 보여서 했는데, 밤새우고 만들었습니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<br>
+### Notion
+Wait...
