@@ -43,7 +43,7 @@ foo(3)
 
 And here is the same code with syntax highlighting:
 
-```javascript
+```kotlin
 var foo = function(x) {
   return(x + 5);
 }
