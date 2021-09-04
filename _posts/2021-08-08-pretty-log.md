@@ -57,7 +57,7 @@ viewModel.test.observe(this, { res ->
 2021-08-08 19:07:59.275 io.github.bbang208.cleanarchitecture E/MainActivity: errorMessage: null
 ```
 
-정말이지.. 와슨 선생님은 참으로 대단하신 분이다.
+정말이지.. 와튼 선생님은 참으로 대단하신 분이다.
 
 그 분의 선행은 여기서 끝나지 않는다. 로그 스타일 커스텀이 가능하다.
 
