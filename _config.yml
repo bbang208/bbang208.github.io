@@ -158,12 +158,11 @@ google_analytics: "G-D8ZBY1RDC5"
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
-#utterances:
-repository: bbang208/bbang208.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
-issue-term: title   # Mapping between blog posts and GitHub issuestheme: github-light # Utterances theme
-label: 💬
-theme: github-light
-label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+utterances:
+  repository: "bbang208/bbang208.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  issue-term: "pathname"   # Mapping between blog posts and GitHub issues
+  theme: "github-light" # Utterances theme
+  label: "💬" # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 
